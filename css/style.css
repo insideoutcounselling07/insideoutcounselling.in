@@ -44,6 +44,7 @@ html {
   font-family: sans-serif;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
 
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
@@ -6456,7 +6457,7 @@ button.bg-dark:focus {
 
 .mr-2,
 .mx-2 {
-  margin-right: 0.5rem !important; }
+  margin-right: 5rem !important; }
 
 .mb-2,
 .my-2 {
@@ -8034,7 +8035,7 @@ h1, h2, h3, h4, h5,
       color: #fff; }
     .wrap .phone a {
       color: #fff;
-      font-size: 12px; }
+      font-size: 20px; }
 
 .social-media {
   display: inline-block; }
