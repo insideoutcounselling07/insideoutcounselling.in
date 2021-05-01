@@ -6455,9 +6455,14 @@ button.bg-dark:focus {
 .my-2 {
   margin-top: 0.5rem !important; }
 
+.mr-2-custom,
+.mx-2-custom {
+  margin-right: 5rem !important; }
+
 .mr-2,
 .mx-2 {
-  margin-right: 5rem !important; }
+  margin-right: 0.5rem !important; }
+
 
 .mb-2,
 .my-2 {
